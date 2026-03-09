@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chethan Kumar S
+# 👋 Hi, I'm Chethan Kumar S V
 
 🎓 Final Year Engineering Student  
 💻 Full Stack Web Developer  
