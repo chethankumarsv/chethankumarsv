@@ -47,8 +47,8 @@ https://github.com/chethankumarsv/ELearning-Platform
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com  
+📧 Email: chethansv2345@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/chethan-kumar-sv-889697258?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 
 ---
 
