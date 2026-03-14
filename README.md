@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Chethan Kumar S V
+<h1 align="center">Hi 👋, I'm Chethan Kumar S V</h1>
+<h3 align="center">Aspiring Full Stack Developer | MERN Learner | Final Year Engineering Student</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Web+Development+Enthusiast&center=true&width=500&height=45">
 
 🎓 Final Year Engineering Student  
 💻 Full Stack Web Developer  
