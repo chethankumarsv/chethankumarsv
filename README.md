@@ -82,3 +82,4 @@ https://github.com/chethankumarsv/plastic-free-campus-initiative
 ---
 
 ⭐ Always learning new technologies and building projects.
+![snake animation](https://github.com/chethankumarsv/chethankumarsv/blob/output/github-contribution-grid-snake.svg)
